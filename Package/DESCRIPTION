@@ -1,0 +1,9 @@
+Package: mylm
+Version: 0.1.1
+License: GPL-2
+Description: Template-Package with very insightfull insights!
+Title: mylm Template-Package
+Author: Sebastian Warnholz
+Maintainer: <Sebastian.Warnholz@inwt-statistics.de>
+Encoding: UTF-8
+Suggests: testthat
